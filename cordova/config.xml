@@ -7,6 +7,9 @@
   <author email="iteearmah@gmail.com">
     Samuel Armah
   </author>
+  <platform name="android">
+        <icon src="ceorg_logo.png" />
+    </platform>
    <plugin name="cordova-plugin-dialogs" />
     <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="cordova-plugin-network-information" />
