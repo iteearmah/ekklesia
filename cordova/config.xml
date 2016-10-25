@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ekklesia" version="0.1.0">
+  <name>Ekklesia</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="iteearmah@gmail.com">
+    Samuel Armah
+  </author>
+   <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-qrscanner" />
+</widget>
